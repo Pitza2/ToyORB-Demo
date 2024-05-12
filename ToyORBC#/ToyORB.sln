@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToyORB", "ToyORB\ToyORB.csproj", "{232DBDFF-57D8-4B48-A986-200DC1AD2330}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client", "Client\Client.csproj", "{B4021FA0-506F-4AC5-8759-7399849F176A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "testServer", "testServer\testServer.csproj", "{E8B2CD81-3BBD-47C5-80D8-B06598C986D2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{232DBDFF-57D8-4B48-A986-200DC1AD2330}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{232DBDFF-57D8-4B48-A986-200DC1AD2330}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{232DBDFF-57D8-4B48-A986-200DC1AD2330}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{232DBDFF-57D8-4B48-A986-200DC1AD2330}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4021FA0-506F-4AC5-8759-7399849F176A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4021FA0-506F-4AC5-8759-7399849F176A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4021FA0-506F-4AC5-8759-7399849F176A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4021FA0-506F-4AC5-8759-7399849F176A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E8B2CD81-3BBD-47C5-80D8-B06598C986D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8B2CD81-3BBD-47C5-80D8-B06598C986D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8B2CD81-3BBD-47C5-80D8-B06598C986D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8B2CD81-3BBD-47C5-80D8-B06598C986D2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

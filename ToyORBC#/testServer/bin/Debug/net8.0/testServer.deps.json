@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "testServer/1.0.0": {
+        "dependencies": {
+          "ToyORB": "1.0.0"
+        },
+        "runtime": {
+          "testServer.dll": {}
+        }
+      },
+      "ToyORB/1.0.0": {
+        "runtime": {
+          "ToyORB.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "testServer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ToyORB/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

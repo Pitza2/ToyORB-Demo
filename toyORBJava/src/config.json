@@ -1,0 +1,15 @@
+{
+  "services": {
+    "MathService": {
+      "float:do_add": ["float","float"],
+      "float:do_sqrt": ["float"]
+    },
+    "InfoService": {
+      "String:get_road_info": ["int"],
+      "String:get_temp": ["string"]
+    },
+    "BankService": {
+      "float:get_balance": ["string"]
+    }
+  }
+}
